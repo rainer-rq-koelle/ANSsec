@@ -1,6 +1,5 @@
 [
-["index.html", "Air Navigation System Security Chapter 1 About this book", " Air Navigation System Security Rainer Koelle 2016-10-23 Chapter 1 About this book This book is an attempt of making use of R/RStudio/RMArkdown to write a book on Air Navigation Security using github. This book has been produced with the bookdown package. "],
-["how-to-contribute.html", "Chapter 2 How to contribute", " Chapter 2 How to contribute Send me an email: rainer.koelle@eurocontrol.int "],
-["about.html", "Chapter 3 About", " Chapter 3 About This chapter covers the front matters. "],
-["introduction.html", "Chapter 4 Introduction", " Chapter 4 Introduction This is the introduction. "]
+["index.html", "Air Navigation System Security Chapter 1 Air Navigation System Security 1.1 About this book 1.2 How to contribute", " Air Navigation System Security Rainer Koelle 2016-10-23 Chapter 1 Air Navigation System Security 1.1 About this book This book is an attempt of making use of R/RStudio/RMArkdown to write a book on Air Navigation Security using github. This book has been produced with the bookdown package. 1.2 How to contribute Send me an email: rainer.koelle@eurocontrol.int "],
+["about.html", "About", " About This chapter covers the front matters. "],
+["introduction.html", "Chapter 2 Introduction", " Chapter 2 Introduction This is the introduction. "]
 ]
