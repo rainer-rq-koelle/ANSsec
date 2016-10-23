@@ -16,3 +16,7 @@ description: "This book reports on my research in Air Navigation System Security
 
 This book is an attempt of making use of R/RStudio/RMArkdown to write a book on Air Navigation Security using github.
 This book has been produced with the bookdown package.
+
+# How to contribute
+
+Send me an email: rainer.koelle@eurocontrol.int

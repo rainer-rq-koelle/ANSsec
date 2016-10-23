@@ -7,7 +7,6 @@ set -e
 
 git config --global user.name "Rainer Koelle"
 git config --global user.email "rainer.koelle@eurocontrol.int"
-git commit --amend --reset-author
 
 git clone -b gh-pages https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git book-output
 cd book-output
