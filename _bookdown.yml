@@ -1,0 +1,6 @@
+book_filename: "_ANS-Security"
+chapter_name: "Chapter "
+edit:
+  link: https://github.com/rainer-rq-koelle/anssec/edit/master/%s
+  text: "Contribute"
+output_dir: "book"

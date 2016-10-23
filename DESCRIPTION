@@ -1,0 +1,5 @@
+Package: placeholder
+Title: A fake DESCRIPTION file to make travis work for anssec book project
+Version: 0.0.1
+Imports: bookdown
+Remotes: rstudio/bookdown
